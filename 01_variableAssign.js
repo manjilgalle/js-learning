@@ -1,6 +1,6 @@
 console.log("========================STEP I=========================");
 var myFullName;
-console.log("Before Initialization", myFullName);
+console.log("Before Initialization :", myFullName);
 myFullName = "Manjil Galle";
 console.log("My Full Name :", myFullName);
 myFullName = "Manjil Sharadrao Galle";
